@@ -35,11 +35,23 @@ h1 {
   background-image: url('images/logo.png');
     display: inline-block;
     margin:25px;
-    padding-right:27px;
-    height:127px;
+    padding-right:14px;
+    height:97px;
     color: white;
     box-shadow: 10px 10px 5px grey;
 }
+
+.h1 {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 0px;
+  padding-left: 15px;
+}
+
+.addressClass {
+  padding-top: 400px;
+}
+
 
 /*
 #one {
