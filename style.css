@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+}
+
+
+body {
+border-top: 1px solid red;
+border-bottom: 1px solid red;
+}
+
+.top {
+  margin: 0;
+}
+
+.bottom {
+  margin: 0
+}
+
+.bottomDiv {
+  background: linear-gradient(white, 80%, black);
+}
+
+.topDiv {
+  background: linear-gradient(black, 20%, white);
+
+}
+
+
+address {
+  text-align: right;
+  margin: 20px;
+}
+
+h1 {
+  background-image: url('images/logo.png');
+    display: inline-block;
+    margin:25px;
+    padding-right:27px;
+    height:127px;
+    color: white;
+    box-shadow: 10px 10px 5px grey;
+}
+
+/*
+#one {
+  background-image: url(image/top-image.png)
+}
+
+#two {
+  background-image: url(image/bottom-image.png)
+}
+*/
